@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  demo-teamcity-server:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-16T14:55:39.934872+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 514f4b444fe31ac42988c4c71a2e518630c9f9047a18f5c1ea93677fdad6ed37
+    name: demo-teamcity-server
+    type: application
+    urls:
+    - https://labaq.github.io/demo-teamcity-server/demo-teamcity-server-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-16T14:55:39.927311+08:00"
